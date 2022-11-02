@@ -145,8 +145,8 @@ button:focus{
 	outline: none;
 }
 
-.form-control::-moz-placeholder {
-    color: #12557f;
+.form-control::placeholder {
+    color: #dee77a;
     opacity: 1;
 }
 
@@ -1321,6 +1321,12 @@ button:focus{
 
 /*------------------------------------------------------------------
     Contact
+	.cont-line{
+	margin-left: 20%;
+	overflow: hidden;
+	margin-bottom: 30px;
+	width: 99.33%;
+}
 -------------------------------------------------------------------*/
 
 .contact-box{
@@ -1382,7 +1388,7 @@ button:focus{
 	height: 45px;
 	font-size: 16px;
 	border: 0;
-	color: #FAEBEF;
+	color: #ffe777;
 	padding: 6px 15px;
 	-webkit-box-shadow: none;
 	box-shadow: none;
