@@ -1876,3 +1876,45 @@ margin-top: -25px;}
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+
+.feat{
+	margin-bottom: 15px;
+	padding: 4px 12px;
+  }
+  
+   .featone{
+	margin-bottom: 15px;
+	padding: 4px 12px;
+	background-color: #ffdddd;
+	border-left: 6px solid #f44336;
+  }
+  
+  .feattwo {
+	margin-bottom: 15px;
+	padding: 4px 12px;
+	background-color: #ddffdd;
+	border-left: 6px solid #04AA6D;
+  }
+  
+  .featthree{
+	margin-bottom: 15px;
+	padding: 4px 12px;
+	background-color: #e7f3fe;
+	border-left: 6px solid #2196F3;
+  }
+  
+  
+  .featfour{
+	margin-bottom: 15px;
+	padding: 4px 12px;
+	background-color: #e2e292;
+	border-left: 6px solid #ffeb3b;
+  }
+  .featfive{
+	margin-bottom: 15px;
+	padding: 4px 12px;
+	background-color: #c2d5e0;
+	border-left: 6px solid #e42323;
+  }
