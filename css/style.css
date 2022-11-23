@@ -1541,7 +1541,7 @@ select.form-control:not([size]):not([multiple]){
 .text-start{
 	font-family: 'Manrope', sans-serif;
 color: black;
-	font-weight: 600;
+	font-weight: 500;
 	font-size: 15px;
 	
 }
